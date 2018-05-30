@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stock Simple</string>
+    <string name="sale_button">Vente</string>
+    <string name="new_product">Ajoute un nouvel objet</string>
+    <string name="hint_email_address">fournisseur@gmail.com</string>
+    <string name="supplier_email_title">Adresse e-mail du fournisseur</string>
+    <string name="supplier_phone_hint">Exp. +212 0615402135</string>
+    <string name="supplier_phone_title">Téléphone du fournisseur</string>
+    <string name="supplier_name_hint">le nom du fournisseur</string>
+    <string name="supplier_name_title">Nom du fournisseur</string>
+    <string name="quantity_title">Quantité</string>
+    <string name="price_title">Prix</string>
+    <string name="product_name_title">Nom du produit</string>
+    <string name="currency_details">DH / article</string>
+    <string name="action_save">Enregistrer l\'article</string>
+    <string name="editor_activity_title_new_item">Ajoute un nouvel article</string>
+    <string name="editor_activity_title_edit_item">Editer article</string>
+    <string name="menu_order_item">Commander plus</string>
+    <string name="menu_delete_item">Supprime article</string>
+    <string name="menu_delete_all_data">Supprimer toutes les données</string>
+    <string name="phone">Téléphone</string>
+    <string name="email">Email</string>
+    <string name="order_message">Vous pouvez passer une commande pour cet article par téléphone ou par e-mail</string>
+    <string name="delete_message">Êtes-vous sûr de vouloir procéder à la suppression?</string>
+    <string name="delete">Acceptez</string>
+    <string name="cancel">Annuler</string>
+    <string name="empty_list_hint">Commencez à ajouter des articles à votre inventaire</string>
+    <string name="action_add_dummy_data">Ajouter des données factices</string>
+    <string name="select_image">Sélectionner une image</string>
+    <string name="image">Image</string>
+    <string name="unsaved_changes_dialog_msg">Il existe des modifications non enregistrées dans les informations sur le produit. Voulez-vous continuer?</string>
+    <string name="discard">Annuler</string>
+    <string name="keep_editing">Continuez à modifier</string>
+</resources>
